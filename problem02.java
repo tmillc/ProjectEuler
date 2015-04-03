@@ -4,14 +4,14 @@
 
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms. */
 
-public class Prob2 {
-	public static main(String args[]) {
+public class problem02 {
+	public static void main(String args[]) {
 		int sum = 0;
 		num1 = 1;
 		num2 = 2;
 		
 		while(fibo(num1, num2) < 40) {
-			System.out.println(fibo(num1, num2);
+			System.out.println(fibo(num1, num2));
 		
 	}
 	

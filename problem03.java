@@ -4,7 +4,7 @@
  * What is the largest prime factor of the number 600851475143 ?
  */
 
-public class Prob3 {
+public class problem03 {
 	public static void main(String args[]) {
 		int test = 300;
 		long num = 600851475143L;  // L designates it as a long

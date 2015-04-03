@@ -7,7 +7,7 @@
  *
  * @author Blah
  */
-public class prob10 {
+public class problem10 {
     public static void main(String args[]) {
         for (int i = 2; i < 2000000; i++) {
             

@@ -2,7 +2,7 @@
 	Find the thirteen adjacent digits in the 1000-digit number below that have the greatest product. What is the value of this product?
 */
 
-public class Prob8 {
+public class problem08 {
 	public static void main(String args[]) {
 		String bigNumber = "73167176531330624919225119674426574742355349194934" +
 			"96983520312774506326239578318016984801869478851843" +

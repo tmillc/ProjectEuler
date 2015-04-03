@@ -4,7 +4,7 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 	
 */
 
-public class Prob4 {
+public class problem04 {
 	public static void main(String args[]) {
 		long startTime = System.currentTimeMillis(); // For analyzing execution time
 		int palindrome = 999999;

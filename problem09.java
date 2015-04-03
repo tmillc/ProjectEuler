@@ -7,11 +7,10 @@
 
 // TODO: As a recursion, we are checking numbers > 1000 so doing more branching than we need to
 // We stop the loop if the sum > 1000 but still do the transformations
-package prob9;
 
 import java.util.Arrays;
 
-public class Problem9 {
+public class problem09 {
     public static void main(String[] args) {
         int[] triple = { 3, 4, 5 };
         boolean foundIt = false;
